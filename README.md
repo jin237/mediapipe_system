@@ -1,8 +1,7 @@
 # The born recognition system using Mediapipe by google
 
 ### Environment
-- Windows 10 home Insider Preview 10.0.21327 build 221327
-  - Core(TM) i7-9700K CPU @ 3.60GHz
+- Macbook Pro
 - Anaconda 4.8.2
 - Web Camera
 
